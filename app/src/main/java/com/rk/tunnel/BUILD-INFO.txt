@@ -1,0 +1,4 @@
+RK Tunnel Lite v1.0.3
+Default origin: http://192.168.1.5:8080/
+Memory tuning: stream assets with 8 KB buffer; GOGC=50; GOMAXPROCS=1.
+Target: Android 4.4.2 / API 19, ARMv7 (must be tested on the target device).
